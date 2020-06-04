@@ -1,0 +1,6 @@
+venv/
+result.txt
+model/
+test/
+train/
+test.py
